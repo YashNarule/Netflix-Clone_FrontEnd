@@ -1,3 +1,6 @@
+The Netflix Clone App is a web application designed to replicate the popular streaming service, Netflix. created using react js and deployed using firebase
+
+# You can try it out here https://netflix-clone-c0ee8.web.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
